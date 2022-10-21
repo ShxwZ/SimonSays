@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimonDice</string>
+    <string name="fallos">TextView</string>
+    <string name="nivel">Nivel: 1</string>
+    <string name="FlechaIzquierda"><![CDATA[<-]]></string>
+    <string name="FlechaDerecha"><![CDATA[->]]></string>
+    <string name="r">↻</string>
+</resources>
