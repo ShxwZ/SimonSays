@@ -8,6 +8,6 @@
 - Progressive level
 
 ## Clone with git
-```js
+```
 git clone https://github.com/ShxwZ/SimonDice.git
 ```
