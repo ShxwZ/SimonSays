@@ -7,7 +7,7 @@
 - Restart game counter
 - Progressive level
 
-## Clone with git
+## Clone with git 📎
 ```
 git clone https://github.com/ShxwZ/SimonDice.git
 ```
